@@ -3,7 +3,7 @@
     "id": "001",
     "name": "玉如意",
     "category": "古玉",
-    "price": 150,
+    "price": ???-????,
     "image": "assets/images/J001.jpg",
     "description": "玉如意的介紹。"
   },
@@ -11,7 +11,7 @@
     "id": "002",
     "name": "茄皮瓶",
     "category": "瓷器",
-    "price": 220,
+    "price": ???-????,
     "image": "assets/images/C001.jpg",
     "description": "茄皮瓶的介紹。"
   },
@@ -19,7 +19,7 @@
     "id": "003",
     "name": "帽架",
     "category": "其他",
-    "price": 80,
+    "price": ???-????,
     "image": "assets/images/O001.jpg",
     "description": "帽架的介紹。"
   },
@@ -27,7 +27,7 @@
     "id": "004",
     "name": "齋戒牌",
     "category": "其他",
-    "price": 10,
+    "price": ???-????,
     "image": "assets/images/齋戒牌.jpg",
     "description": "齋戒牌的介紹。"
   }
